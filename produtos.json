@@ -1,0 +1,58 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "GF Microsoft",
+        "valor": 15.90,
+        "promocao": false,
+        "valorPromo": 0,
+        "imagem": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Teclado Microsoft",
+        "valor": 30.00,
+        "promocao": false,
+        "valorPromo": 0,
+        "imagem": "https://cdn.pixabay.com/photo/2015/02/02/11/09/office-620822_960_720.jpg"
+      },  
+      {
+        "id": 2,
+        "nome": "Teclado Microsoft",
+        "valor": 30.00,
+        "promocao": false,
+        "valorPromo": 0,
+        "imagem": "https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg"
+      },  
+      {
+        "id": 3,
+        "nome": "Montitor Sansung",
+        "valor": 250.00,
+        "promocao": false,
+        "valorPromo": 0,
+        "imagem": "https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg"
+      },  
+      {
+        "id": 4,
+        "nome": "Laptop Asus",
+        "valor": 3000.00,
+        "promocao" : false,
+        "valorPromo": 0,
+        "imagem": "https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg"
+      }  
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
