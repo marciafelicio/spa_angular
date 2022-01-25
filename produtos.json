@@ -10,7 +10,8 @@
       },
       {
         "id": 2,
-        "nome": "Teclado Microsoft",
+        "nome": "Teclado Microsoft ",
+        "teste" : "123",
         "valor": 30.00,
         "promocao": false,
         "valorPromo": 0,
